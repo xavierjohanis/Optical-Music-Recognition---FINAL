@@ -1,0 +1,6 @@
+repo: dedac3785c47a7d51ae2a7cdd18a56b9510a2a4f
+node: 180961d0b775ab11c8527f16db7c88dc823fcae4
+branch: default
+latesttag: v1.20
+latesttagdistance: 1
+changessincelatesttag: 1
